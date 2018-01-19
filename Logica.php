@@ -8,7 +8,7 @@
 // == e ===: o primeiro compara somente o conteúdo, o segundo referenci também
 //o tipo da variável.
 
-//Operadores Aritméticos:
+//Operadores Aritméti cos:
 // +, - , *, /, %(resto), **(potência)
 
 //Operadores Lógicos
